@@ -1,4 +1,4 @@
-function greet(name) 
-    {console.log("Hello," + name + "!");}
-    greet ("John")
+function greet(name,family) 
+    {console.log("Hello, " +name +" "+ family+"!");}
+    greet ("John","Atanasov")
     
