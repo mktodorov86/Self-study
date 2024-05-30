@@ -5,8 +5,7 @@ function generateFibonacci(n) {
     }
     return "The Fibonacci sequence up to " + n + " is: " + sequence.join(', ');
   };
-  
-  n = 10;
+ n = 10;
     console.log(generateFibonacci(n));
 
  

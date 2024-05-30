@@ -34,6 +34,6 @@ function solve(input) {
 }
 
 input = ['5 3 12 3 1'];
-solve (input)
 
+solve input
 

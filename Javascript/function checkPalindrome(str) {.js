@@ -8,5 +8,6 @@ function checkPalindrome(str) {
   }
   
   const str = "hello world";
-  console.log(checkPalindrome(str));
+  const result = checkPalindrome(str);
+  console.log(result);
   
